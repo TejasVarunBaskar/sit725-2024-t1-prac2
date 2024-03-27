@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "sit725-2024-t1-prac2",
+  "version": "1.0.0",
+  "description": "demo",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TejasVarunBaskar/sit725-2024-t1-prac2.git"
+  },
+  "author": "Tejas Varun Baskar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TejasVarunBaskar/sit725-2024-t1-prac2/issues"
+  },
+  "homepage": "https://github.com/TejasVarunBaskar/sit725-2024-t1-prac2#readme"
+}
